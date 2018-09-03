@@ -1,5 +1,6 @@
-# Technologies
-Technologies for Declarative Markup
+# Technologies for Declarative Markup
+
+## Core technologies used to create, store, find, read, transform, re-use, and preserve declarative markup. 
 
 Although a lot of platforms and tools for declarative markup exist today, there is still a lot to be done to bring the [usage of declarative markup](http://www.markupdeclaration.org/)  to its full potential. 
 
