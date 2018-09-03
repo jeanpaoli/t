@@ -21,4 +21,4 @@ Issue titles might include:
 
 When an issue needs a detailed technical description, a new page on the [wiki](https://github.com/markupdeclaration/technologies/wiki) can be associated with the issue and edited collaboratively.
 
-Practitioners of declarative markup: please share your knowledge in [Applications]()
+_Practitioners of declarative markup: please share your knowledge in [Applications]()_
