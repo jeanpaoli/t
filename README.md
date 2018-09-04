@@ -24,4 +24,4 @@ When an issue needs a detailed technical description, a new page on the [wiki](h
 
 _Practitioners of declarative markup: please share your knowledge in [Applications](https://github.com//markupdeclaration/applications)_
 
-_Please join in the overall [Markup Declaration] (http://www.mulberrytech.com/markupdeclaration.html)!_
+_Please join in the overall [Markup Declaration] (http://www.mulberrytech.com/markupdeclaration.html) conversation!_
